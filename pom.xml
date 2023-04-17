@@ -27,6 +27,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <!--suppress MavenModelInspection -->
+            <version>5.4.0</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
